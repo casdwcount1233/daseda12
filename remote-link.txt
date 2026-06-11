@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pension-documentary-reached-amend.trycloudflare.com/vnc.html
+URL       : https://aus-cup-vincent-subscriber.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 18:16:34
+Created   : 2026-06-11 22:05:48
 =======================================================
