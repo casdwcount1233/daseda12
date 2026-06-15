@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://darwin-javascript-exclusively-paintings.trycloudflare.com/vnc.html
+URL       : https://ages-link-store-hopefully.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 21:15:23
+Created   : 2026-06-15 04:18:15
 =======================================================
