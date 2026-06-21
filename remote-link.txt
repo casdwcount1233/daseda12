@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://explained-keno-robinson-sim.trycloudflare.com/vnc.html
+URL       : https://bacon-purchasing-server-said.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 02:31:27
+Created   : 2026-06-21 08:55:45
 =======================================================
