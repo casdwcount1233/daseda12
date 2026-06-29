@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reward-some-affiliated-geometry.trycloudflare.com/vnc.html
+URL       : https://diagram-promote-required-toronto.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 17:28:45
+Created   : 2026-06-29 21:18:25
 =======================================================
