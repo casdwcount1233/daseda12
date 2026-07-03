@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://had-tears-firefox-fort.trycloudflare.com/vnc.html
+URL       : https://alerts-ins-today-greatest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 01:47:48
+Created   : 2026-07-03 07:56:52
 =======================================================
