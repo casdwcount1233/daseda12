@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://building-lucia-skirt-lid.trycloudflare.com/vnc.html
+URL       : https://arabia-por-calm-sense.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-07 08:15:53
+Created   : 2026-07-07 12:23:12
 =======================================================
