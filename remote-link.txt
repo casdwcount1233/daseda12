@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://license-richmond-recorder-planned.trycloudflare.com/vnc.html
+URL       : https://permission-safe-governing-shut.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-08 07:24:16
+Created   : 2026-07-08 11:43:14
 =======================================================
