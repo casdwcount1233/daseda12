@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stations-freebsd-tract-including.trycloudflare.com/vnc.html
+URL       : https://municipal-graphical-menu-peak.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 01:28:01
+Created   : 2026-07-20 07:52:20
 =======================================================
