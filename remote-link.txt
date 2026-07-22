@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://someone-labels-falling-minds.trycloudflare.com/vnc.html
+URL       : https://power-corners-conf-reached.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 07:31:35
+Created   : 2026-07-22 11:46:05
 =======================================================
