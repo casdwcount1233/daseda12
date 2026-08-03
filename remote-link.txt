@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hills-scenic-hist-forward.trycloudflare.com/vnc.html
+URL       : https://brothers-editors-para-algebra.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 01:30:16
+Created   : 2026-08-03 08:22:30
 =======================================================
