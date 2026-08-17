@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://prairie-skills-arrow-dropped.trycloudflare.com/vnc.html
+URL       : https://boot-css-bar-male.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 20:10:58
+Created   : 2026-08-17 00:33:50
 =======================================================
