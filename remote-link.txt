@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://upcoming-consultant-lenses-van.trycloudflare.com/vnc.html
+URL       : https://payroll-colleges-architectural-referral.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:16:46
+Created   : 2026-08-20 00:33:45
 =======================================================
