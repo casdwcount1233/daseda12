@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://funny-behalf-oasis-souls.trycloudflare.com/vnc.html
+URL       : https://walk-widely-workstation-nato.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 20:17:44
+Created   : 2026-08-21 00:36:20
 =======================================================
