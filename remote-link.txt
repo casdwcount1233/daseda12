@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hospitals-marketing-controversial-swim.trycloudflare.com/vnc.html
+URL       : https://expand-acid-fairfield-faq.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 20:04:19
+Created   : 2026-08-28 07:23:52
 =======================================================
